@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+python-dotenv
+streamlit
+pandas
+langgraph
+langchain-core
+groq
+python-multipart
+email-validator
